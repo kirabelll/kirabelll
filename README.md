@@ -18,6 +18,7 @@
 
 <h3 align="left">About with me:</h3>
 <p align="left">
+  Skilled Full stack Developer with 2+ years of demonstrated working experience in Mobile, Web, and Back-end application development. Experienced with all stages of software development life cycle for dynamic mobile, web, and back-end projects. HTML,CSS, JavaScript, Typescript, PHP, JSON , Xml, dart and SQL are among the programming and scripting languages in which I'm proficient. Hands-on technical expertise in top frameworks including Flutter, Nextjs, Node, Express js, Laravel ,ReactJS, and .Android Studio. In this fast-changing profession, I am always looking for new technology to learn and methods to improve myself. Hardworking, detail-oriented, and able to multi-task effectively.
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
