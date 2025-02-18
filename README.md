@@ -32,7 +32,7 @@ My Skill Set Includes:
   <img width="50%"  src="https://github-readme-streak-stats.herokuapp.com?user=kirabelll&" alt="kirabelll" />
   [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=kirabelll)](https://git.io/streak-stats)
 </div>
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=kirabelll)](https://git.io/streak-stats)
+
 
 ---
 :zap: To generate a `README.md` file like this for your profile, checkout [Github Readme Generator](https://hejazizo-github-profile-readme-srcstreamlit-app-i6skm7.streamlit.app/).
