@@ -13,8 +13,11 @@ With 2+ years of experience, I specialize in designing and developing high-perfo
 
 My Skill Set Includes:
 ✅ Frontend Development – Creating intuitive and responsive UIs with Next.js, React.js, Material UI, Tailwind CSS, and more. 🎨
+
 ✅ Backend Development – Building scalable APIs and servers using Nest.js, Node.js, Express, Apollo RESTAPI, and other powerful frameworks. 🔥
+
 ✅ Database Management – Designing efficient data models and handling databases like MongoDB, PostgreSQL, Prisma, Firebase and more. 💾📊
+
 ✅ Testing & Deployment – Ensuring quality with Cypress, Jest, React Testing Library and deploying with GitHub Actions, Docker and more. 🚀
 
 
@@ -30,7 +33,6 @@ My Skill Set Includes:
 <div>
   <img width="45%" align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kirabelll&show_icons=true&locale=en&layout=compact" alt="kirabelll" />
   <img width="50%"  src="https://github-readme-streak-stats.herokuapp.com?user=kirabelll&" alt="kirabelll" />
-  
 </div>
 
 
