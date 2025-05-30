@@ -1,17 +1,17 @@
 # 👋 Hello, I'm Kirubel Kassahun!
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=28&pause=1000&color=1D9BF0&center=true&vCenter=true&width=500&lines=;+%26+React+Developer;Full+Stack+Engineer,+%26+Enthusiast;Mental+Health+Tech+Builder" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=28&pause=1000&color=1D9BF0&center=true&vCenter=true&width=500&lines=;+%26+React+Developer;+%26+Full+Stack+Engineer,+%26+Enthusiast;Mental+Health+Tech+Builder" alt="Typing SVG" />
 </div>
 
 ## 💫 About Me
 
 I'm an  Software Engineer passionate about using machine learning and software to improve lives. I started my coding journey at unity University in 2020, and have since grown into a full-stack developer with a mission: building impactful, ethical, and locally relevant solutions.
 
-- 🌐 Portfolio: [kidus.engineer](https://kidus.engineer)
-- 🚀 First deployed site (2022): [Beclassicphotography.com](https://beclassicphotography.com)
+- 🌐 Portfolio: [kirubel kassahun](https://kirabel.vercel.app/)
+- 🚀 First deployed site (2022): [Beclassicphotography.com](#)
 - 🧠 Co-founder of **MindBloom**, an AI-driven mental health platform under Ubuntu in Mela: 
-- 📱 Flutter + React for rapid cross-platform development [Mindbloom](https://mindbloom.kidus.engineer)
+- 📱 Flutter + React for rapid cross-platform development [Mindbloom](#)
 - 🤝 Collaborating with NGOs like Alenelachehu to expand access to mental health support
 - 🎯 Exploring NLP, LLMs, and AI-powered learning systems
 - 🎶 Hobbies: Singing, photography, deep conversations, and long walks
@@ -20,21 +20,16 @@ I'm an  Software Engineer passionate about using machine learning and software t
 
 <div align="center">
 
-[![Website](https://img.shields.io/badge/Website-kidus.engineer-%230077B5?style=for-the-badge&logo=google-chrome&logoColor=white)](https://kidus.engineer)
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/Kidusyoh)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kidus-yohannes-568a31207)
-[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@kidyoh789)
+[![Website](https://img.shields.io/badge/Website-kirubel.dev-%230077B5?style=for-the-badge&logo=google-chrome&logoColor=white)](https://kirabel.vercel.app/)
+[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/kirabelll)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kirubelkasashun)
+[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@kirubell)
 
 </div>
 
 ## 💻 Tech Stack
 
 <div align="center">
-
-### 🧠 AI & ML  
-![Python](https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/pytorch-%23EE4C2C.svg?style=for-the-badge&logo=pytorch&logoColor=white)
 
 ### 📱 Mobile Development  
 ![Flutter](https://img.shields.io/badge/flutter-%2302569B.svg?style=for-the-badge&logo=flutter&logoColor=white)
