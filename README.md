@@ -1,96 +1,115 @@
-# 👋 Hello, I'm Kirubel Kassahun!
 
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=28&pause=1000&color=1D9BF0&center=true&vCenter=true&width=500&lines=;+%26+React+Developer;+%26+Full+Stack+Engineer,+%26+Enthusiast;Mental+Health+Tech+Builder" alt="Typing SVG" />
+[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=kirabelll&data=followers,repositories,stars,commits&theme=viridescent)](https://github.com/kirabelll)
+<!-- <h3 align ="center"> <strong> Let`s Code.Build & FUN </strong> </h3>  -->
+<div align="left" width="100%" height="100%"> 
+ 
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kirubelkassahun/)
+[![Gmail](https://img.shields.io/badge/%20-Send%20Mail-black?color=14171A&labelColor=ef5350&logo=gmail&logoColor=ffffff&style=for-the-badge)](mailto:kirubelkasahun9@gmail.com)
+![](https://komarev.com/ghpvc/?username=kirabelll&color=brightgreen&style=for-the-badge)
+[![Telegram](https://img.shields.io/badge/Telegram-%231877F2.svg?style=for-the-badge&logo=Telegram&logoColor=white)](https://t.me/kirabelll)
+[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=.for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/kirabelll)
 </div>
 
-## 💫 About Me
 
-I'm an  Software Engineer passionate about using machine learning and software to improve lives. I started my coding journey at unity University in 2020, and have since grown into a full-stack developer with a mission: building impactful, ethical, and locally relevant solutions.
 
-- 🌐 Portfolio: [kirubel kassahun](https://kirabel.vercel.app/)
-- 🚀 First deployed site (2022): [Beclassicphotography.com](#)
-- 🧠 Co-founder of **MindBloom**, an AI-driven mental health platform under Ubuntu in Mela: 
-- 📱 Flutter + React for rapid cross-platform development [Mindbloom](#)
-- 🤝 Collaborating with NGOs like Alenelachehu to expand access to mental health support
-- 🎯 Exploring NLP, LLMs, and AI-powered learning systems
-- 🎶 Hobbies: Singing, photography, deep conversations, and long walks
 
-## 🌐 Connect With Me
+<h4 style="font-size : 20px;">👋 Hello! I'm Kirubel , a web and mobile developer from Ethiopia. I taught myself how to build websites and apps. I enjoy using technology to solve problems and bring ideas to life. I'm good at paying attention to small details and finding solutions when things get tough. When I'm not coding, I'm always learning something new. Let's connect and work together to make cool stuff happen!!<h4>
 
-<div align="center">
+<h2> some of the technologies I work with ❤️</h2>
 
-[![Website](https://img.shields.io/badge/Website-kirubel.dev-%230077B5?style=for-the-badge&logo=google-chrome&logoColor=white)](https://kirabel.vercel.app/)
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/kirabelll)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kirubelkasashun)
-[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@kirubell)
+<h4> programming languages</h4>
+ 
+ <table width="100%" height="100%">
+  <tr>
+      <td>
+        <img alt="Typescript" height=64px src="https://cdn.worldvectorlogo.com/logos/typescript.svg">
+     </td>
+     <td>
+      <img alt="Javascript" height=64px src="https://cdn.worldvectorlogo.com/logos/javascript-1.svg">
+     </td>
+          <td align="center">
+       <img alt="Python" height=64px src= "https://cdn.worldvectorlogo.com/logos/python-5.svg">
+     </td>
+      <td align="center">
+      <img alt="PHP" height=64px src="https://cdn.worldvectorlogo.com/logos/php-6.svg">
+    </td>
+   </tr>
+</table>
+//
+<h4> Technologies [ Frameworks && tools ] </h4>
 
-</div>
+<table>
+   <tr>
+          <td align="center">
+       <img alt="Next js" height=64px src= "https://www.datocms-assets.com/75941/1657707878-nextjs_logo.png">
+     </td>
+      <td align="center">
+      <img alt="React" height=64px src="https://cdn.worldvectorlogo.com/logos/react-2.svg">
+    </td>
+          <td align="center">
+       <img alt="Expo" height=64px src="https://cdn.worldvectorlogo.com/logos/expo-1.svg">
+     </td> 
+    <td>
+        <img alt="React Native" height=64px src="https://cdn.worldvectorlogo.com/logos/react-native-1.svg">
+     </td>
+     <td align="center">
+      <img alt="Tailwind" height=64px src="https://cdn.worldvectorlogo.com/logos/tailwindcss.svg">
+    </td>
+     <td align="center">
+       <img alt="Redux" height=64px src= "https://cdn.worldvectorlogo.com/logos/redux.svg">
+     </td>
+     <td align="center">
+       <img alt="Electron" height=64px src="https://cdn.worldvectorlogo.com/logos/electron-1.svg">
+     </td> 
+      <td align="center">
+       <img alt="Telegraf" height=64px src="https://telegraf.js.org/media/logo.svg">
+     </td> 
+    <td>
+     <img alt="shad-cn" height=64px src="https://pbs.twimg.com/media/FxoIFVgagAE-gqB?format=png&name=4096x4096">
+    </td>
+   </tr>
+   <tr>
+          <td align="center">
+       <img alt="Hono" height=64px src="https://seeklogo.com/images/H/hono-logo-85A5D1206D-seeklogo.com.png">
+     </td> 
+     <td align="center">
+       <img alt="Express" height=64px src="https://adware-technologies.s3.amazonaws.com/uploads/technology/thumbnail/20/express-js.png">
+     </td>
+        <td align="center">
+       <img alt="Mongo Db" height=64px src="https://cdn.worldvectorlogo.com/logos/mongodb-icon-1.svg">
+     </td>
+    <td align="center">
+       <img alt="my-sql" height=64px src="https://brandslogos.com/wp-content/uploads/thumbs/mysql-logo-vector-1.svg">
+     </td> 
+       <td align="center">
+       <img alt="GraphQL" height=64px src="https://cdn.worldvectorlogo.com/logos/graphql-logo-2.svg">
+     </td> 
+       <td align="center">
+       <img alt="Posql" height=64px src="https://cdn.worldvectorlogo.com/logos/postgresql.svg">
+     </td>  
+    <td align="center">
+       <img alt="Socket-io" height=64px src="https://cdn.worldvectorlogo.com/logos/socket-io.svg">
+     </td> 
+   </tr>
 
-## 💻 Tech Stack
+ </table>
+ 
+<br>
 
-<div align="center">
 
-### 📱 Mobile Development  
-![Flutter](https://img.shields.io/badge/flutter-%2302569B.svg?style=for-the-badge&logo=flutter&logoColor=white)
 
-### 🖥️ Frontend Development  
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Next.js](https://img.shields.io/badge/next.js-%23000000.svg?style=for-the-badge&logo=next.js&logoColor=white)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 
-### 🔧 Backend & Tools  
-![Node.js](https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![NestJS](https://img.shields.io/badge/nestjs-E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white)
-![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
+ <table align="center" width="100%" height="100%" >
+   <tr>
+     <td> 
+  
+![Github stats](https://github-readme-stats.vercel.app/api?username=kirabelll&theme=radical&show_icons=true&count_private=true&hide=issues) </td>
+     <td> [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kirabelll&theme=radical&layout=compact)](https://github.com/kirabelll) </td>
+   </tr>
+  </table>
 
-### 🎨 Styling & Design  
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
-![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
 
-### ☁️ Deployment & DevOps  
-![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
-![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![GCP](https://img.shields.io/badge/GCP-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
+ 
+ 
 
-</div>
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kirabelll&theme=react&hide_border=false&include_all_commits=true&count_private=true)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=kirabelll&theme=react&hide_border=false)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kirabelll&theme=react&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-</div>
-
-## ✍️ Random Dev Quote
-
-<div align="center">
-
-![Dev Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=react)
-
-</div>
-
----
-
-<div align="center">
-
-[![](https://visitcount.itsvg.in/api?id=Kidyoh&label=Profile%20Views&color=1&icon=6&pretty=true)](https://visitcount.itsvg.in)
-
-</div>
-
-<!-- 
-Credit: [Kidyoh](https://github.com/Kidyoh)
-Last Updated: May 2025
--->
