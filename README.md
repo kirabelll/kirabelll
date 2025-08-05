@@ -96,9 +96,8 @@
 
  <table align="center" width="100%" height="100%" >
    <tr>
-     <td> 
   
-![Github stats](https://github-readme-stats.vercel.app/api?username=kirabelll&theme=radical&show_icons=true&count_private=true&hide=issues) </td>
+     <td> ![Github stats](https://github-readme-stats.vercel.app/api?username=kirabelll&theme=radical&show_icons=true&count_private=true&hide=issues) </td>
      <td> [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kirabelll&theme=radical&layout=compact)](https://github.com/kirabelll) </td>
    </tr>
   </table>
